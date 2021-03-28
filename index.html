@@ -1,0 +1,16 @@
+---
+layout: default
+title: G2K Teachers' Schedule
+---
+<ul class="photo-gallery">
+  {% for teacher in site.data.teachers %}
+    <li>
+      <a href="{{ teacher.link }}">
+        <figure>
+          <img src="{{ teacher.photo | relative_url }}" alt="{{ teacher.name }}">
+          <figcaption>{{ teacher.name }}</figcaption>
+        </figure> 
+      </a>
+    </li>
+  {% endfor %}
+</ul>
