@@ -5,5 +5,9 @@ description: G2K Teachers' schedule with photo gallery.
 baseurl: "/photo-schedule" # the subpath of your site, e.g. /blog/
 url: "https://tech-g2k.github.io" # the base hostname & protocol for your site
 
+# User setting
+owner: Gateway to Khmer
+email: tech@gateway2kherm.com
+
 collections:
   photo_gallery:
