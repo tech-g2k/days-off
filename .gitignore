@@ -1,5 +1,15 @@
+# Jykell Compilation
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
