@@ -1,6 +1,6 @@
 # Site settings
-name: G2K Teachers' Schedule
-description: G2K Teachers' schedule with photo gallery.
+name: G2K Teachers' Days Off
+description: For G2K teachers to check their days off status.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
