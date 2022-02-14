@@ -3,12 +3,12 @@ layout: default
 title: G2K Teachers' Days Off
 ---
 <ul class="photo-gallery">
-  {% for teacher in site.data.teachers %}
+  {% for s in site.data.staff %}
     <li>
-      <a href="{{ teacher.link }}">
+      <a href="{{ site.gdrive }}{{ s.link }}">
         <figure>
-          <img src="{{ teacher.photo | relative_url }}" alt="{{ teacher.name }}">
-          <figcaption>{{ teacher.name }}</figcaption>
+          <img src="{{ s.photo | relative_url }}" alt="{{ s.name }}">
+          <figcaption>{{ s.name }}</figcaption>
         </figure> 
       </a>
     </li>

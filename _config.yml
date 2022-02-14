@@ -9,5 +9,7 @@ url: "" # the base hostname & protocol for your site
 owner: Gateway to Khmer
 email: tech@gateway2kherm.com
 
+gdrive: https://docs.google.com/spreadsheets/d/
+
 collections:
   photo_gallery:
