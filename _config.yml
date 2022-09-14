@@ -1,5 +1,5 @@
 # Site settings
-name: G2K Teachers' Days Off
+name: G2K Days Off
 description: For G2K teachers to check their days off status.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site
 
 # User setting
 owner: Gateway to Khmer
-email: tech@gateway2kherm.com
+email: info@gateway2kherm.com
 
 gdrive: https://docs.google.com/spreadsheets/d/
 

@@ -1,48 +1,75 @@
-- name : Suot Sreyvann
-  link : 1zo94g6t9doFwQazd_pVa5RCaPKyEbfytwx5VekmONrY
-  photo : /images/Suot_Sreyvann.jpg
-- name : Suon Sam Vitou
-  link : 1DgqKa1mQtOo6TUN5n3kD6usi7EsEX9eGZNJyxHllNZo
-  photo : /images/Suon_Sam_Vitou.jpg
-- name : Phally Sophen
-  link : 173KnKq25szn4U1-bDwyb3nioYpMJ0_P9At2_ColY_nU
-  photo : /images/Phally_Sophen.jpg
-- name : Meun Sreypov
-  link : 1-mxFQV4CpfzJuOSS_FWIJbbvWz3_Z_ADzTLycp7RjJU
-  photo : /images/Meun_Sreypov.jpg
-- name : Keo Leakhena
-  link : 1CPiC4ZrdLEvxn0DBAhbDw6PQx9xPnlzUZtGNK3Ev1cM
-  photo : /images/Keo_Leakhena.jpg
-- name : Kham Samphors
-  link : 1la4OExslWd-jfHI7L_XIJKj9aHoDCQMQKgu4QjkCkRE
-  photo : /images/Kham_Samphors.jpg
-- name : Huon Sotheary
-  link : 1VF2uUp9lKllGiadEB60p_BccnR37mtw0BSiMRpjmvrw
-  photo : /images/Huon_Sotheary.jpg
-- name : Chhun Bunna
-  link : 1dbKZqunX-HXcQDRtjdP2uF6fanGS4d7G3AJCNIvNaFM
-  photo : /images/Chhun_Bunna.jpg
+- name : Chan Minea
+  link : 1ck1lUnyxFmE9EmWm9Y0vGrSBRTi9um5-pQ-c6YteL0Q
+  photo: /images/Chan_Minea.jpg
 - name : Chea Vatey
   link : 1ktSjVsSrm7lk9TS1l6panc4BfJ0Y8q6PnfMX5EDhfeE
-  photo : /images/Chea_Vatey.jpg
-- name : Mom Vanny
-  link : 1e3Fh-Vps22H08QAhg9CwHsUCmoHDIcgLtL5QWNLuGgE
-  photo : /images/Mom_Vanny.jpg
-- name : Keo Sreypath
-  link : 1A5_nl6ISQA7lYCkhPwLM39f8DFj6QSYm8hey7grtxmY
-  photo : /images/Keo_Sreypath.jpg
-- name : Sorn Sarath
-  link : 1p38s6txAIfovI1yPXBwSwaFPmVALxNmvb_-oYjXp_ko
-  photo : /images/Sorn_Sarath.jpg
-- name : Touch Keo
-  link : 1At5tQRTlFd5-j-1EPaUYREXQe05QEOBz6Y6WhsXF258
-  photo : /images/Touch_Keo.jpg
-- name : Ly Net
-  link : 1n5foYl9nZM26GAvGb0W-iQtsGOombWmsfKFHEO5VGZU
-  photo : /images/Ly_Net.jpg
-- name : Chheng Sokeang 
+  photo: /images/Chea_Vatey.jpg
+- name : Chheng Sokeang
   link : 1xQ-7As7mVn8wmxlqUgtkUpjsyns-0GbP9WAHowUVDBM
-  photo : /images/Chheng_Sokeang.png
+  photo: /images/Chheng_Sokeang.jpg
+- name : Chhun Bunna
+  link : 1dbKZqunX-HXcQDRtjdP2uF6fanGS4d7G3AJCNIvNaFM
+  photo: /images/Chhun_Bunna.jpg
+- name : Chom Chean
+  link : 1hsOfVORrmiisTsxIRLLpsVVNquQPY4JHQAegyZ6dGK0
+  photo: /images/Chom_Chean.jpg
+- name : Choun Phollin
+  link : 1NLD_5-a5RxWt8Xk6xxnbvc7U_5VpHrhD9kBHFiqAkrw
+  photo: /images/Choun_Phollin.jpg
+- name : Heng Molty
+  link : 14qZARbC3Fwc3Ho_AAy_1zwU6dbqbzkPauXFzfA3Bpwk
+  photo: /images/Heng_Molty.jpg
+- name : Huon Sotheary
+  link : 1VF2uUp9lKllGiadEB60p_BccnR37mtw0BSiMRpjmvrw
+  photo: /images/Huon_Sotheary.jpg
+- name : Kang Lideth
+  link : 1rXqF50rWc8zjd3_q2tNdK7LZqY7V6SFGcc2ho6slcVU
+  photo: /images/Kang_Lideth.jpg
+- name : Keo Leakhena
+  link : 1CPiC4ZrdLEvxn0DBAhbDw6PQx9xPnlzUZtGNK3Ev1cM
+  photo: /images/Keo_Leakhena.jpg
 - name : Keo Rachana
   link : 19PoRFSU6jscFa9wFlaXUntyhDoN6cKXgLIT4zg-H-K0
-  photo : /images/Keo_Rachana.png
+  photo: /images/Keo_Rachana.jpg
+- name : Keo Sreypath
+  link : 1A5_nl6ISQA7lYCkhPwLM39f8DFj6QSYm8hey7grtxmY
+  photo: /images/Keo_Sreypath.jpg
+- name : Kham Samphors
+  link : 1la4OExslWd-jfHI7L_XIJKj9aHoDCQMQKgu4QjkCkRE
+  photo: /images/Kham_Samphors.jpg
+- name : Kim Sokhun
+  link : 1WvrP9tQ4dSceUeBrftQ-rtf8PxcpZ_5RCqnp9kR_1V8
+  photo: /images/Kim_Sokhun.jpg
+- name : Ly Net
+  link : 1n5foYl9nZM26GAvGb0W-iQtsGOombWmsfKFHEO5VGZU
+  photo: /images/Ly_Net.jpg
+- name : Meun Sreypov
+  link : 1-mxFQV4CpfzJuOSS_FWIJbbvWz3_Z_ADzTLycp7RjJU
+  photo: /images/Meun_Sreypov.jpg
+- name : Mom Vanny
+  link : 1e3Fh-Vps22H08QAhg9CwHsUCmoHDIcgLtL5QWNLuGgE
+  photo: /images/Mom_Vanny.jpg
+- name : Nick Waters
+  link : 1-fvIiurmchpGRFc9hcJFwrj1IozLLou_AiT0mbgxyWQ
+  photo: /images/Nick_Waters.jpg
+- name : Phally Sophen
+  link : 173KnKq25szn4U1-bDwyb3nioYpMJ0_P9At2_ColY_nU
+  photo: /images/Phally_Sophen.jpg
+- name : Sorn Sarath
+  link : 1p38s6txAIfovI1yPXBwSwaFPmVALxNmvb_-oYjXp_ko
+  photo: /images/Sorn_Sarath.jpg
+- name : Sun Keovichra
+  link : 1BDAQLRmAVZvC2mbddDP66pod5X2WJSw01xmXUvl6tIc
+  photo: /images/Sun_Keovichra.jpg
+- name : Suon Sam Vitou
+  link : 1DgqKa1mQtOo6TUN5n3kD6usi7EsEX9eGZNJyxHllNZo
+  photo: /images/Suon_Sam_Vitou.jpg
+- name : Suot Srey Vann
+  link : 1zo94g6t9doFwQazd_pVa5RCaPKyEbfytwx5VekmONrY
+  photo: /images/Suot_Srey_Vann.jpg
+- name : Tep Pisey
+  link : 1Mue5avbjUXD0ELqT8WW6A-8wdYENmTMKN-oVistjDAY
+  photo: /images/Tep_Pisey.jpg
+- name : Touch Keo
+  link : 1At5tQRTlFd5-j-1EPaUYREXQe05QEOBz6Y6WhsXF258
+  photo: /images/Touch_Keo.jpg
